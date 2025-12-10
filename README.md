@@ -7,6 +7,6 @@ I'm **GumyBerLOL** (but you can call me **Gumy**), and I'm dumb.
 - [**APK Studio**](https://qwertycube.com/apk-editor-studio/): I use this to edit APK files.
 - [**AssetRipper**](https://github.com/AssetRipper/AssetRipper): I use this to decompile mostly Unity Mono games.
 
-### I use **Arch Linux** as my OS.
+### I use **Arch Linux** (and sometimes **Windows 10**) as my OS.
 
 That's all, thanks for reading! :)
