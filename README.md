@@ -9,10 +9,10 @@ I'm **GumyBerLOL** (but you can call me **Gumy**), and I'm dumb.
 
 ### Socials
 
-[**Youtube** (most active there)](https://youtube.com/@gumyberlolig)
-[**TikTok**](https://www.tiktok.com/@gumyberlolig)
-**Discord**: gumyberlol.
-[**SoundCloud**](https://on.soundcloud.com/a6rCFFt0PDC7t6pMRz)
+- [**Youtube** (most active there)](https://youtube.com/@gumyberlolig)
+- [**TikTok**](https://www.tiktok.com/@gumyberlolig)
+- **Discord**: gumyberlol.
+- [**SoundCloud**](https://on.soundcloud.com/a6rCFFt0PDC7t6pMRz)
 
 **I don't use any other platform as regularly as those two.**
 
